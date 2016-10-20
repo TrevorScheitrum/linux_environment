@@ -65,6 +65,7 @@ sudo apt-get install -y fluxgui
 sudo apt-get install -y kvpm
 sudo apt-get install -y phablet-tools ubuntu-device-flash
 sudo apt-get install -y playonlinux
+sudo apt-get install -y xdotool xwininfo wmctrl
 
 # music
 sudo apt-get install -y nuvolaplayer3 nuvolaplayer3-all-services
