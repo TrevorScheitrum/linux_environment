@@ -28,7 +28,7 @@ echo "deb http://apt.syncthing.net/ syncthing release" | sudo tee /etc/apt/sourc
 sudo apt-get update
 
 # coding related
-sudo apt-get install -y git python python-pip pwython3 python3-pip
+sudo apt-get install -y git python python-pip pwython3 python3-pip python-dev
 sudo apt-get install -y build-essential
 
 # database related
